@@ -1,2 +1,2 @@
-# DataScience
-Some codes related to Data Science
+# Introduction to Data Science in Python
+Coursera 
